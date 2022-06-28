@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.exe
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.deps.json
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.dll
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\bin\Debug\net5.0\ExerciseClass2.pdb
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.dll
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\refint\ExerciseClass2.dll
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.pdb
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ExerciseClass2.genruntimeconfig.cache
+C:\Users\geremias.bezerra\source\repos\ExerciseClass2\ExerciseClass2\obj\Debug\net5.0\ref\ExerciseClass2.dll
